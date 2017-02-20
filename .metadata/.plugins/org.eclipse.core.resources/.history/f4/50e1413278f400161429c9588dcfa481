@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Sesiones</title>
+	</head>
+
+	<body>
+		<h1>Sesiones</h1>
+		
+		<form action="/Sesiones/anyadir">
+			
+			Atributo:<br>
+			<input type="text" name="atributo"><br><br>
+			
+			Valor:<br>
+			<input type="text" name="valor"><br><br>
+			
+			<input type="submit" value="anyadir">
+		</form>
+	</body>
+</html>
