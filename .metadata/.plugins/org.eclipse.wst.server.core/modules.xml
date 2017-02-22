@@ -4,4 +4,5 @@
   <module moduleId="org.eclipse.jst.jee.server:Encuesta" serverId="Tomcat v7.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Sesions" serverId="Tomcat v7.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Puntos" serverId="Tomcat v7.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Libreria" serverId="Tomcat v7.0 Server at localhost"/>
 </modules>
